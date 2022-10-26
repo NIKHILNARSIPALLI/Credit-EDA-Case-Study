@@ -2,7 +2,7 @@
 This is an EDA project on "Electric and Alternate Fuel Charging Stations in US and Canada".
 
 ---------------------
-##Project Introduction:
+# Project Introduction:
 
 This is an introduction report on the project - “specifics of Electric/Alternate 
 fuel Vehicle charging stations in the US and Canada”. 
