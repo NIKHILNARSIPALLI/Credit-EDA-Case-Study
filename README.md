@@ -8,7 +8,7 @@ This is an introduction report on the project - “specifics of Electric/Alterna
 fuel Vehicle charging stations in the US and Canada”. 
 
 ---------------------
-##About the dataset: 
+## About the dataset: 
 
 The dataset – “Electric and Alternative Fuel Charging Stations 2022”, 
 contains data on different types of alternative fuel available in the US and Canada, 
