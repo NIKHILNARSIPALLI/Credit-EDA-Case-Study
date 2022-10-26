@@ -4,17 +4,17 @@ This is an EDA project on "Electric and Alternate Fuel Charging Stations in US a
 ---------------------
 Project Introduction:
 
-    This is an introduction report on the project - “specifics of Electric/Alternate 
+This is an introduction report on the project - “specifics of Electric/Alternate 
 fuel Vehicle charging stations in the US and Canada”. 
 
 ---------------------
 About the dataset: 
 
-    The dataset – “Electric and Alternative Fuel Charging Stations 2022”, 
+The dataset – “Electric and Alternative Fuel Charging Stations 2022”, 
 contains data on different types of alternative fuel available in the US and Canada, 
 having information starting from 2017 to 2022.
 
-    The dataset also contains Historical stations count by state starting from 
+The dataset also contains Historical stations count by state starting from 
 2007 to 2021. The data is verified using The National Renewal Energy Laboratory
 (NREL) in the US and The National Resources Canada (NRCan) in Canada, which 
 update any new and check existing charging stations annually to provide accurate 
@@ -27,12 +27,12 @@ No. of columns = 65
 
 Reason for selecting this dataset:
 
-    From electric cars and propane vehicles to natural gas-powered buses and 
+From electric cars and propane vehicles to natural gas-powered buses and 
 trucks that run on biodiesel, today’s options for alternative fuel are very vast.
 Increasing the use of alternative fuels and vehicles will help reduce consumers’ fuel 
 costs, minimize pollution and increase the nation’s energy security.
 
-    By using alternative fuels we can reduce pollution, protect against global 
+By using alternative fuels we can reduce pollution, protect against global 
 warming, reduce wastage, frequently produce domestically, reduce unrest and 
 conflict on current fossil fuels, and help farmers(by using biofuels that depend on 
 crops). These all-use cases made me interested in selecting this dataset as my 
