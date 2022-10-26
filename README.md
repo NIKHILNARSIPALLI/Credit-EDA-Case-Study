@@ -8,7 +8,7 @@ This is an introduction report on the project - “specifics of Electric/Alterna
 fuel Vehicle charging stations in the US and Canada”. 
 
 ---------------------
-## About the dataset: 
+### About the dataset: 
 
 The dataset – “Electric and Alternative Fuel Charging Stations 2022”, 
 contains data on different types of alternative fuel available in the US and Canada, 
@@ -25,7 +25,7 @@ No. of columns = 65
 
 ---------------------
 
-##Reason for selecting this dataset:
+### Reason for selecting this dataset:
 
 From electric cars and propane vehicles to natural gas-powered buses and 
 trucks that run on biodiesel, today’s options for alternative fuel are very vast.
@@ -40,7 +40,7 @@ project
 
 --------------------
 
-##Approach for this project:
+### Approach for this project:
 
 • We will first import the required libraries and datasets for the project.
 • Interpret different columns
@@ -52,7 +52,7 @@ project
 
 --------------------
 
-##Goals and Plans:
+### Goals and Plans:
 
 • Analyze the different types of alternate fuels in charging stations available
 • Analyze the growth of different alternate fuel charging stations
@@ -63,6 +63,6 @@ project
 
 -------------------
 
-##Reference:
+### Reference:
 
 Dataset - https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations
